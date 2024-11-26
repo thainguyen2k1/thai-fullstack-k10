@@ -107,7 +107,6 @@ export default function Shop() {
           className="border px-2 py-1 w-12"
           type="number"
           value={numberPage}
-          // skip / limit + 1
         />
         <span>/ {Math.floor(totalPage / limit) + 1}</span>
       </span>
