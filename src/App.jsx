@@ -8,7 +8,7 @@ function Hello() {
       console.log("Đã được gỡ khỏi DOM");
     };
   }, []);
-  return <h1>Hello</h1>;
+  return <h1>Hello mọi người</h1>;
 }
 
 function App() {
